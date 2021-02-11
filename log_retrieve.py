@@ -1,6 +1,6 @@
 import time
 
-f = open("a.log","r")
+f = open("05.log","r")
 csv_file = open("att.csv","w")
 
 for line in f:
